@@ -1,0 +1,45 @@
+body{
+	background-color:#dddddd;
+	font-family:serif,sans-serif,cursive,fantasy,monospace;
+	font-size:14px;
+}
+
+.wrapper{
+	height: 470px;
+    width: 310px;
+	 background-color:rgba(125, 21, 21,0.6);
+    margin: 0 auto; /* to make the div center align to the browser */
+    padding: 20px;
+	border-radius:20px;
+}
+
+.header{
+	margin:10px 20px 20px 20px;
+	text-align:center;
+		color:#fff;
+	font-size:18px;
+}
+
+.area{
+	padding:10px;
+	border: #fff solid 3px;
+	color:#fff;
+	text-align:right;
+}
+
+.convert{
+	color:#fff;
+}
+
+.row{
+	margin-top:10px;
+	margin-right:-10px;
+}
+
+.press{
+	height:40px;
+	width:40px;
+	margin-right:10px;
+	border-radius:5px;
+	background-color:#d2eff7;
+}
